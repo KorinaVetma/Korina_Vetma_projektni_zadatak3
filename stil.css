@@ -1,0 +1,44 @@
+  @charset "utf-8";
+  /* CSS Document */
+  
+  
+  
+  @font-face{
+	  font-family:'KorinaVetma';
+	  src: url(Font/KorinaVetma.ttf);
+  }
+  h1 span{
+	  font-family: 'KorinaVetma';
+  }
+  
+  p{
+	  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	  font-size:16px;
+	  line-height:18px;
+	  width:600px;
+	  background-color: antiquewhite;
+	  padding:20px;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Slike/pozadina.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    height: 100px; 
+}
+
+h2{
+	color:#FF1493;
+}
+
+
+body {
+  background-color: lightgrey;
+}
+
+
+</body>
+</html>
